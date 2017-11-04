@@ -3,5 +3,5 @@ This code is using FER2013 dataset with keras library and tensorflow backend. Th
 
 To run this code:
 1. Download FER2013 Dataset from https://www.kaggle.com/c/challenges-in-representation-learning-facial-expression-recognition-challenge/data
-2. Run python datapreprocessing.py to convert dataset to numpy format
-3. Run python cnnmodel.py for trainning
+2. Run 'python datapreprocessing.py' to convert dataset to numpy format
+3. Run 'python cnnmodel.py' for trainning
